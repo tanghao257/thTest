@@ -1,2 +1,3 @@
 thTest
 1234567
+add func
